@@ -15,3 +15,4 @@ railsで生成されたwebページを、素のhtml,cssに変更した都合で�
 - cssの参照先を"default.css"に変更
 - 「モバイルガイド」「解説一覧」のリンクを"list.html"に変更(exhbits内のファイルについては"../list.html")
 - list.htmlの"/default.png"について、頭の/を消す
+- exhibitsの5~80がまだ空なので、コードをコピペする
